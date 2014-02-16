@@ -1,0 +1,192 @@
+<Questions
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:noNamespaceSchemaLocation="./questions.xsd">
+    
+	<Question text="Koliko dana ima siječanj?" correct="3">
+		<Anwser text="28" />
+		<Anwser text="29" />
+		<Anwser text="30" />
+		<Anwser text="31" />
+	</Question>
+	<Question text="Koji je najprometniji evropski aerodrom ?" correct="3">
+		<Anwser text="Berlin" />
+		<Anwser text="Madrid" />
+		<Anwser text="Atena" />
+		<Anwser text="Frankfurt" />
+	</Question>
+	<Question text="Na kojem poluotoku se nalaze Španjolska i Portugal ?" correct="3">
+		<Anwser text="Apeninskom" />
+		<Anwser text="Skandinavskom" />
+		<Anwser text="Krimski" />
+		<Anwser text="Pirinejskom" />
+	</Question>
+	<Question text="Sastav od osam glazbenika zove se ...." correct="1">
+		<Anwser text="Sekstet" />
+		<Anwser text="Oktet" />
+		<Anwser text="Nonet" />
+		<Anwser text="Kvartet" />
+	</Question>
+	<Question text="Pipi je bila ..." correct="0">
+		<Anwser text="duga čarapa" />
+		<Anwser text="duga pletenica" />
+		<Anwser text="dugi nos" />
+		<Anwser text="duga suknjica" />
+	</Question>
+	<Question text="Koliko znamenaka ima JMBG ?" correct="2">
+		<Anwser text="9" />
+		<Anwser text="11" />
+		<Anwser text="13" />
+		<Anwser text="15" />
+	</Question>
+	<Question text="Decimalna oznaka za 4/5 je ..." correct="2">
+		<Anwser text="0.50" />
+		<Anwser text="0.75" />
+		<Anwser text="0.80" />
+		<Anwser text="1.00" />
+	</Question>
+	<Question text="Gdje je muzej Louvre ?" correct="0">
+		<Anwser text="u Parizu" />
+		<Anwser text="u Metzu" />
+		<Anwser text="u Nici" />
+		<Anwser text="u Monte Carlu" />
+	</Question>
+	<Question text="Samsonova snaga bila je u njegovoj ..." correct="2">
+		<Anwser text="Peti" />
+		<Anwser text="Torbi" />
+		<Anwser text="Kosi" />
+		<Anwser text="Vilici" />
+	</Question>
+	<Question text="Đavolji trokut ujedno nosi i naziv ..." correct="2">
+		<Anwser text="Havajski trokut" />
+		<Anwser text="Grenlandski trokut" />
+		<Anwser text="Bermudski trokut" />
+		<Anwser text="Japanski trokut" />
+	</Question>
+	<Question text="Ahilovo jedino ranjivo mjesto bila je ...." correct="2">
+		<Anwser text="Srce" />
+		<Anwser text="Oko" />
+		<Anwser text="Peta" />
+		<Anwser text="Koljeno" />
+	</Question>
+	<Question text="Kako se zove palica za upravljanje kompjutorskim igricama ?" correct="1">
+		<Anwser text="Notepad" />
+		<Anwser text="Joystick" />
+		<Anwser text="Keyboard" />
+		<Anwser text="Mouse" />
+	</Question>
+	<Question text="Gdje je sjedište OUN-a ?" correct="0">
+		<Anwser text="u New Yorku" />
+		<Anwser text="u Washingtonu" />
+		<Anwser text="u Chicagu" />
+		<Anwser text="u Bruxellesu" />
+	</Question>
+	<Question text="Kako su se zvali japanski piloti - samoubice ?" correct="3">
+		<Anwser text="Sayonara" />
+		<Anwser text="Nagasaki" />
+		<Anwser text="Harakiri" />
+		<Anwser text="Kamikaze" />
+	</Question>
+	<Question text="Nastavi poslovicu: Rugao se lonac loncu , a	oba su ..." correct="1">
+		<Anwser text="stara" />
+		<Anwser text="crna" />
+		<Anwser text="šuplja" />
+		<Anwser text="na koncu" />
+	</Question>
+	<Question text="Španjolska preko Giblatara gleda u ...." correct="1">
+		<Anwser text="Alžir" />
+		<Anwser text="Maroko" />
+		<Anwser text="Tunis" />
+		<Anwser text="Libiju" />
+	</Question>
+	<Question text="Ragusa je talijanski naziv za ..." correct="2">
+		<Anwser text="Korčulu" />
+		<Anwser text="Mljet" />
+		<Anwser text="Dubrovnik" />
+		<Anwser text="Cavtat" />
+	</Question>
+	<Question text="Gdje je zid plača ?" correct="1">
+		<Anwser text="u Tel Avivu" />
+		<Anwser text="u Jeruzalemu" />
+		<Anwser text="u Bejrutu" />
+		<Anwser text="u Bagdadu" />
+	</Question>
+	<Question text="Što nije elementarna nepogoda ?" correct="2">
+		<Anwser text="Zemljotres" />
+		<Anwser text="Požar" />
+		<Anwser text="Glad" />
+		<Anwser text="Poplava" />
+	</Question>
+	<Question text="Čija je valuta forinta ?" correct="1">
+		<Anwser text="Poljska" />
+		<Anwser text="Mađarska" />
+		<Anwser text="Bugarska" />
+		<Anwser text="Austrijska" />
+	</Question>
+	<Question text="Koji je zid izgrađen 1961 godine ?" correct="0">
+		<Anwser text="Berlinski zid" />
+		<Anwser text="Zid plača" />
+		<Anwser text="Kineski zid" />
+		<Anwser text="Zid srama" />
+	</Question>
+	<Question text="Ako je Božić u petak, u koji dan je Nova godina ?" correct="0">
+		<Anwser text="Petak" />
+		<Anwser text="Subota" />
+		<Anwser text="Nedjelja" />
+		<Anwser text="Ponedjeljak" />
+	</Question>
+	<Question text="Koliko je zvijezdica na američkoj zastavi ?" correct="0">
+		<Anwser text="50" />
+		<Anwser text="55" />
+		<Anwser text="60" />
+		<Anwser text="65" />
+	</Question>
+	<Question text="Koje se povrće koristi za kokice (popcorn) ?" correct="2">
+		<Anwser text="Mrkva" />
+		<Anwser text="Grašak" />
+		<Anwser text="Kukuruz" />
+		<Anwser text="Pšenica" />
+	</Question>
+	<Question text="Kad žena čeka bebu, ona je... " correct="0">
+		<Anwser text="gravidna" />
+		<Anwser text="frigidna" />
+		<Anwser text="zavidna" />
+		<Anwser text="providna" />
+	</Question>
+	<Question text="Čiji se nos u laži povećava ?" correct="2">
+		<Anwser text="Kermitu" />
+		<Anwser text="Mikiju" />
+		<Anwser text="Pinokiju" />
+		<Anwser text="Šilji" />
+	</Question>
+	<Question text="Koliko je jaja - duzina ?" correct="3">
+		<Anwser text="sedam" />
+		<Anwser text="osam" />
+		<Anwser text="deset" />
+		<Anwser text="dvanaest" />
+	</Question>
+	<Question text="Koju boju kose ima Marge u Simpsonima ?" correct="0">
+		<Anwser text="Plavu" />
+		<Anwser text="Žutu" />
+		<Anwser text="Crvenu" />
+		<Anwser text="Crvenožutu" />
+	</Question>
+	<Question text="Kako nazivamo mlado od ovce ?" correct="0">
+		<Anwser text="Janje" />
+		<Anwser text="Jare" />
+		<Anwser text="Ždrijebe" />
+		<Anwser text="Odojak" />
+	</Question>
+	<Question text="U kojem si hrvatskom gradu ako šetaš Stradunom ?" correct="0">
+		<Anwser text="Dubrovniku" />
+		<Anwser text="Splitu" />
+		<Anwser text="Zadru" />
+		<Anwser text="Trogiru" />
+	</Question>
+	<Question text="Nastavi uzrečicu: Svjetlo je uvijek na kraju ..." correct="1">
+		<Anwser text="Puta" />
+		<Anwser text="Tunela" />
+		<Anwser text="Balade" />
+		<Anwser text="Ulice" />
+	</Question>
+
+</Questions>

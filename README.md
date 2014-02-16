@@ -1,4 +1,4 @@
-workshop_1_rest_service
-=======================
+Workshop no. 1
+==============================
 
-workshop_1_rest_service
+Who want's to be a millionaire.
